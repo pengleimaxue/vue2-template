@@ -175,9 +175,9 @@ props: { titleText: String }
 
 所有的配置文件都在`.eslintrc.js`中，可以按照自己的需求进行配置。
 
-更多内容：[Vue 编码规范](https://app.yinxiang.com/fx/4a5c9905-675c-477f-a2e6-0fd2d5a34f78)
 
-推荐阅读：[Vue 官方风格指南](https://cn.vuejs.org/v2/style-guide/)
+
+推荐阅读：[Vue 官方风格指南](https://v2.cn.vuejs.org/v2/style-guide/)
 
 ## 前后端联调规范
 
